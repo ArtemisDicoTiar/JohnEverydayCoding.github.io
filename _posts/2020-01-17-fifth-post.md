@@ -10,4 +10,4 @@ As some units are duplicate or reduced duplicate of other units in engineering f
 
 With this visualisation, what I've noticed is there are not that much duplicate units and the duplicate units are exist in some reasons.
 Such as, some topic in original units are not needed to other courses.
-(*unit connnection in the same department is drawn with bright white but connections to other department is drawn with gray color.)
+(*unit connnection in the same department is drawn with bright white but connections to other department is drawn with dark gray color.)
