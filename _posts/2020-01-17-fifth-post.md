@@ -6,7 +6,7 @@ categories: study
 
 As some units are duplicate or reduced duplicate of other units in engineering faculty in university of Bristol, visualisation for the unit to find out the connections(co-requistes) and pre-requistes.
 
-![Image of Unit Nodes](https://github.com/ArtemisDicoTiar/JohnEverydayCoding.github.io/blob/master/_posts/IMG_5589.PNG)
+![Image of Unit Nodes](./IMG_5589.PNG)
 
 With this visualisation, what I've noticed is there are not that much duplicate units and the duplicate units are exist in some reasons.
 Such as, some topic in original units are not needed to other courses.
